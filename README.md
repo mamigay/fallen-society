@@ -11,6 +11,18 @@
 - [Before you start](#before-you-start)
   - [Hardware requirements](#hardware-requirements)
   - [DLC \& Creation Club Content](#dlc--creation-club-content)
+- [Installation](#installation)
+  - [Preparation](#preparation)
+    - [Microsoft Visual C++ Redistributable Packages](#microsoft-visual-c-redistributable-packages)
+    - [Page file setup](#page-file-setup)
+    - [Setup your Shader Cache](#setup-your-shader-cache)
+    - [Disable Steam Overlay](#disable-steam-overlay)
+    - [Set game language to English](#set-game-language-to-english)
+    - [Change Steam's Updating Behavior](#change-steams-updating-behavior)
+    - [Clean current Fallout 4 installation](#clean-current-fallout-4-installation)
+    - [Install Fallout 4](#install-fallout-4)
+    - [Start Fallout 4](#start-fallout-4)
+  - [Wabbajack](#wabbajack)
 
 # What is Fallen Society?
 A NSFW Fallout 4 modlist that aims to be as immersive as possible. If you want large overhauls and tons of new quests, than this is **not** the list for you. This one aims to modify and fix almost every aspect of the base game, add some new locations, weapons etc. and add a spicy portion of NSFW mods on top. Your goal is to survive and to rebuild society in a harsh environment.
@@ -78,3 +90,41 @@ Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Bei
 3. Scroll down in `Global Settings` to find the `Shader Cache Size` option
 4. Set the Shader Cache to *at least* 10GB
 5. Done
+
+![Shader Cache](img/ShaderCache.png)
+
+### Disable Steam Overlay
+The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
+
+### Set game language to English
+Wabbajack and some/most of the modding tools out there only support English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Fallout 4 in your game library and click **Properties** > **Language** > **Select English**.
+
+### Change Steam's Updating Behavior
+If for some reason Bethesda decide to release an update for Fallout 4, everything will probably break. Well, not *everything* but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Fallout 4 in your game library and clicking **Properties** > **Updates** > **Change Automatic Updates to "Only update this game when I launch it"**. Whilst you're in here, it's also recommended to disable Steam Cloud too.
+
+### Clean current Fallout 4 installation
+If you have not yet installed Fallout 4, you can skip this part.
+
+1. Right click on Fallout 4 in your game library and click **Properties** > **Local Files** > **Browse**. 
+2. Uninstall the game via Steam - right click on Fallout 4 in your game library and click **Manage** > **Uninstall**.
+3. Check the explorer window for any left over files - if there are any, delete them.
+4. Open Windows start menu/search and type in `%LOCALAPPDATA%`.
+5. Delete the Fallout 4 folder.
+6. Head to `Documents\My Games` and delete the Fallout 4 folder.
+
+### Install Fallout 4
+Once you've done the steps above, you can now set Steam to download Fallout 4 again but ***do not*** install Fallout 4 to a protected folder, such as `Desktop`, `Downloads` or `Program Files` of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as `C:\SteamLibrary`. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
+
+### Start Fallout 4
+That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
+
+## Wabbajack
+Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
+
+Set the installation location to a folder on the root of a drive, something like `C:\WoD`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Fallout 4 modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists. 
+
+Before you hit **GO**, a quick tip:
+
+*To get the best performance with Wabbajack, it is recommended that you have the install folder for Wabbajack, the modlist folder and the downloads folder on an SSD; ideally the same SSD.* After the installation is complete, you can move the downloads folder to a storage HDD or other storage medium to save space on your game installation drive. It's not recommended to allow your drive to exceed 90% of its storage space used - Windows Explorer will show a red bar under your drive if you do go over 90% so you need to be sure that you have enough space on your installation drive so that you won't exceed this 90% storage level.
+
+Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
