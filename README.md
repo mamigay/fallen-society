@@ -128,3 +128,15 @@ Before you hit **GO**, a quick tip:
 *To get the best performance with Wabbajack, it is recommended that you have the install folder for Wabbajack, the modlist folder and the downloads folder on an SSD; ideally the same SSD.* After the installation is complete, you can move the downloads folder to a storage HDD or other storage medium to save space on your game installation drive. It's not recommended to allow your drive to exceed 90% of its storage space used - Windows Explorer will show a red bar under your drive if you do go over 90% so you need to be sure that you have enough space on your installation drive so that you won't exceed this 90% storage level.
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
+
+# Post Installation
+If you made it this far, chances are good you will make it to the end.
+
+## Mod Organizer 2
+Once everything is downloaded and you closed Wabbajack, head to the installation folder an run ModOrganizer2.exe.
+
+**VERY IMPORTANT: DON'T RUN LOOT! THE LOADORDER IS EXACTLY AS IT SHOULD.**
+
+## Create Desktop Shortcut
+
+
