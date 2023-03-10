@@ -27,7 +27,8 @@
     - [Mod Organizer 2](#mod-organizer-2)
     - [Stock Game](#stock-game)
     - [Create Desktop Shortcut](#create-desktop-shortcut)
-- [Starting Your Game](#starting-your-game)
+ - [Starting Your Game](#starting-your-game)
+    - [Step One](#step-one)
 
 # Fallen Society
 Society has fallen. Every structure of order has been burned in the nuclear fire. It is up to you to rebuild society in the Commonwealth and keep your dignity as well as your sanity in tact. Are you up for the task?
@@ -148,6 +149,41 @@ Fallen Society utilises the stock game feature offered by Wabbajack, meaning tha
 ## Create Desktop Shortcut
 
 # Starting Your Game
-If everything is done, you can begin your journey into the wasteland. When you click on **New Game** in the main menu, a pop-up from the hardship appears. Just click okay and the game should load to the intro.
+If everything is done, you can begin your journey into the wasteland. Read carefully!
 
-When the intro is finished, you should get additional pop-ups that tell you to choose your sexual preferences and traits. Do 
+## Step One
+When you press New Game in the main menu you will be immediatly greeted with an pop-ip. This is from the Hardship mod. Just click okay and forget. After the intro video the Cheat Terminal pop-up will occur. Do the same, just click and forget.
+
+## Step Two
+Now you will be greeted with these two pop-ups (see images below). Choose your sexual preferences and traits. On the second page, click finish **after** you choose everything to your liking.
+
+![Choose Sexual Preference](img/setup3.png)
+Just choose one.
+
+![Choose Sexual Preference 2](img/setup4.png)
+Check every menu **before** hitting that finish button!
+
+## Step Three
+The modlist uses a weapon replacer that injects weapons from other mods into the game and replaces the vanilla ones. Unfortunately, most of the original mods have options to inject them into the game. This is not needed after they are replaced, but it is not possible to deactivate every mods menu. So, this is up to us now for **two** weapon mods.
+
+The first one is the cazador missle launcher and will appear before you create your character.
+
+![Cazador](img/setup5.png)
+**Choose: Do not add to leveled lists.** After that, click ok.
+
+![Cazador](img/setup6.png)
+**Choose: Yes, add it to vendors and loot lists.** I am not actually sure if that is needed, but for now, just do it. After that, click ok.
+
+![Cazador](img/setup7.png)
+**Choose: I will!**
+
+## Step Four
+After that is done, just create your character. **NOTE:** This modlist configured for female characters. Male characters are not supported for now. If you choose to play as a male, you are on your own.
+
+## Step Six
+After you create your character and hit that "done" button, **DO NOTHING!!!** Just wait until the AAF pop-ups appear. Just click okay and then wait until the messages in the top left corner stop appearing.
+
+## Step Seven
+After the mod messages have dissappeared and only then you may proceed to through the bathroom door. Here you can choose what to do. 
+
+**WARNING:** I have never tested the vanilla start with this list and I never will, but im pretty sure it will break the game. So please choose the "It's only a dream..." option and start in the wasteland. Also better for roleplaying.
