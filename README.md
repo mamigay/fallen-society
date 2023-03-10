@@ -187,3 +187,9 @@ After you create your character and hit that "done" button, **DO NOTHING!!!** Ju
 After the mod messages have dissappeared and only then you may proceed to through the bathroom door. Here you can choose what to do. 
 
 **WARNING:** I have never tested the vanilla start with this list and I never will, but im pretty sure it will break the game. So please choose the "It's only a dream..." option and start in the wasteland. Also better for roleplaying.
+
+## Step Eight
+After you wake up in the wasteland you will be greeted with the next pop-up. Yeah :D
+
+![Gas Masks](img/setup8.png)
+Choose the preset of your liking, but be aware that it is possible to die from a radiation storm. If you want to be safe, open the console and type tgm to be invincible for the short period until the weather loads.
