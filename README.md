@@ -29,6 +29,16 @@
     - [Create Desktop Shortcut](#create-desktop-shortcut)
  - [Starting Your Game](#starting-your-game)
     - [Step One](#step-one)
+    - [Step Two](#step-two)
+    - [Step Three](#step-three)
+    - [Step Four](#step-four)
+    - [Step Five](#step-five)
+    - [Step Six](#step-six)
+    - [Step Seven](#step-seven)
+    - [Step Eight](#step-eight)
+    - [Step Nine](#step-nine)
+    - [Step Ten](#step-ten)
+    - [Last Step](#last-step)
 
 # Fallen Society
 Society has fallen. Every structure of order has been burned in the nuclear fire. It is up to you to rebuild society in the Commonwealth and keep your dignity as well as your sanity in tact. Are you up for the task?
@@ -180,16 +190,68 @@ The first one is the cazador missle launcher and will appear before you create y
 ## Step Four
 After that is done, just create your character. **NOTE:** This modlist configured for female characters. Male characters are not supported for now. If you choose to play as a male, you are on your own.
 
-## Step Six
+## Step Five
 After you create your character and hit that "done" button, **DO NOTHING!!!** Just wait until the AAF pop-ups appear. Just click okay and then wait until the messages in the top left corner stop appearing.
 
-## Step Seven
+## Step Six
 After the mod messages have dissappeared and only then you may proceed to through the bathroom door. Here you can choose what to do. 
 
 **WARNING:** I have never tested the vanilla start with this list and I never will, but im pretty sure it will break the game. So please choose the "It's only a dream..." option and start in the wasteland. Also better for roleplaying.
 
-## Step Eight
+## Step Seven
 After you wake up in the wasteland you will be greeted with the next pop-up. Yeah :D
 
 ![Gas Masks](img/setup8.png)
-Choose the preset of your liking, but be aware that it is possible to die from a radiation storm. If you want to be safe, open the console and type tgm to be invincible for the short period until the weather loads.
+Choose the preset of your liking, but be aware that it is possible to die from a radiation storm. If you want to be safe, open the console and type tgm to be invincible for the short period until the weather loads. Just click for the next gas mask pop-ups.
+
+## Step Eight
+Now wait again. Some messages will pop-up on the top left and the weather might change drastically after a few seconds. All part of the plan.
+
+![Backpacks](img/setup9.png)
+When this turns up, just take it and choose the spawnrate to your liking.
+
+## Step Nine
+Now you are good to open the Mod Configuration Menu. Hit esc and open **Mod Configuration**
+
+![MCM Settings](img/setup10.png)
+Wait for a bit until the menu is fully loaded. There is some flickering going on before it finishes. Now click apply and wait again for a few seconds. When it seems like nothing more is happening, close the MCM.
+
+![Success](img/setup11.png)
+
+If everything worked out, you should see these messages in the top left.
+
+## Step Ten
+Almost done, I swear ;) 
+
+Now we need to make some manual changes. Open the MCM again and head to Immersion -> Fallout 2287 - Gas Masks of the Wasteland:
+
+![Gas Masks](img/setup12.png)
+The MCM doesn't safe these settings for some reaseon. So you can choose what you like here. I recommend a longer filter duration and the auto replacer feature. That makes the gas mask gameplay a lot easier.
+
+Now head over to Immersion -> Advanced Needs 76. We need to manually activate the needs and the bathroom system.
+
+![Needs](img/setup13.png)
+Click the button where it says: Click here to Enable Advanced Needs. 
+
+**IMPORTANT:** You can change some of these settings to your liking, but never activate the gas mask system!
+
+![Bathroom](img/setup14.png)
+Here you can also pick and choose. Click the button where it says: Click here to Enable Bathroom Needs. 
+
+**NOTES ABOUT THE ADVANCED NEEDS 76 MOD:** You can alter some of that stuff that is going on, but stuff like dirtiness is better handled by Get Dirty. For maximum compatibility just use my settings and nothing else. You can alos decide to not use the needs and bathroom settings at all. This is just for survival aspects and immersion.
+
+Now close the MCM and wait for the Advanced Needs pop-up to appeard and click ok.
+
+Lastly, head back into the MCM and go to AAF NSFW -> Provocative Perks.
+
+![Provocative Perks](img/setup15.png)
+Click the button and close the MCM. You can now choose some special perks. Read carefully and take your time. When you are finished, just click on finish selection process. 
+
+**NOTE:** These perks are meant to permanent so choose wisely ;)
+
+## Last Step
+I swear :P You are technically good to go. Only two mods will interfere with your journey now.
+
+**Beantown Interiors:** Two pop-ups about the holotapes. Just click okay.
+
+**Mk. 18:** another gun mod where the menu can't be disabled. When it pops up, just click on "normal: skip quest..." and after that set everything to no, like "do not add to leveled lists", "no legendary spawn" etc. Remember, the weapon is already in the game ;)
