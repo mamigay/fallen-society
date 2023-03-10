@@ -7,7 +7,7 @@
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/cprgvBUCpH)
 
 # ToC
-- [What is Fallen Society?](#what-is-fallen-society)
+- [Fallen Society](#fallen-society)
 - [Before you start](#before-you-start)
   - [Hardware requirements](#hardware-requirements)
   - [DLC \& Creation Club Content](#dlc--creation-club-content)
@@ -23,9 +23,14 @@
     - [Install Fallout 4](#install-fallout-4)
     - [Start Fallout 4](#start-fallout-4)
   - [Wabbajack](#wabbajack)
+  - [Post Installation](#post-installation)
+    - [Mod Organizer 2](#mod-organizer-2)
+    - [Stock Game](#stock-game)
+    - [Create Desktop Shortcut](#create-desktop-shortcut)
+- [Starting Your Game](#starting-your-game)
 
-# What is Fallen Society?
-A NSFW Fallout 4 modlist that aims to be as immersive as possible. If you want large overhauls and tons of new quests, than this is **not** the list for you. This one aims to modify and fix almost every aspect of the base game, add some new locations, weapons etc. and add a spicy portion of NSFW mods on top. Your goal is to survive and to rebuild society in a harsh environment.
+# Fallen Society
+Society has fallen. Every structure of order has been burned in the nuclear fire. It is up to you to rebuild society in the Commonwealth and keep your dignity as well as your sanity in tact. Are you up for the task?
 
 # Before you start
 Please read carefully and check every requirement here:
@@ -137,6 +142,12 @@ Once everything is downloaded and you closed Wabbajack, head to the installation
 
 **VERY IMPORTANT: DON'T RUN LOOT! THE LOADORDER IS EXACTLY AS IT SHOULD.**
 
+## Stock Game
+Fallen Society utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Fallout 4 game files during the installation process. This means that your Steam installation of Fallout 4 is completely untouched, even by files that go in the game folder such as ENB files.
+
 ## Create Desktop Shortcut
 
+# Starting Your Game
+If everything is done, you can begin your journey into the wasteland. When you click on **New Game** in the main menu, a pop-up from the hardship appears. Just click okay and the game should load to the intro.
 
+When the intro is finished, you should get additional pop-ups that tell you to choose your sexual preferences and traits. Do 
