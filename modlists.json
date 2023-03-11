@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Fallen Society",
+    "description": "Society has fallen. Every structure of order has been burned in the nuclear fire. It is up to you to rebuild society in the Commonwealth and keep your dignity as well as your sanity in tact. Are you up for the task?",
+    "author": "Nymano",
+    "maintainers": [
+      "github/Nymano641"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "testing",
+      "survival",
+      "sim settlements",
+      "nsfw",
+      "immersive"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/Nymano641/fallen-society/blob/main/img/FS_Header.png",
+      "readme": "https://github.com/Nymano641/fallen-society/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/FallenSociety.wabbajack_9ef4e64b-27e8-4b5c-8d23-bc97af50cf9e",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/cprgvBUCpH"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "ibSWP1VhQNY=",
+      "Size": 13791677,
+      "NumberOfArchives": 648,
+      "SizeOfArchives": 117347189923,
+      "NumberOfInstalledFiles": 54468,
+      "SizeOfInstalledFiles": 164506341470
+    },
+    "version": "0.1"
+  }
+]
