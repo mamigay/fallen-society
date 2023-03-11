@@ -52,6 +52,8 @@
   - [Commonly Failing Downloads](#commonly-failing-downloads)
   - [Issues](#issues)
 - [Thanks](#thanks)
+- [Updating The Modlist](#updating-the-modlist)
+- [Uninstall](#uninstall)
 
 ***
 
@@ -338,3 +340,17 @@ First of all a special thanks to the fantastic ForgottenGlory who brought me bac
 Special thanks as well to iAmMe27 for his fantastic modlist Wasteland of Depravity. Check it out ;) Also I stole a lot of text from his readme for this modlist :D sorry mate^^ Check him out [here](https://github.com/iAmMe27/WoD)
 
 Thanks to the Wabbajack Team and the fantastic team of the JollyCoOperators Discord ;)
+
+***
+
+# Updating The Modlist
+When a new update is released, please check the [changelog](https://github.com/Nymano641/fallen-society/blob/main/changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
+
+If you have added anything to this modlist at all, Wabbajack will also delete those. You should know how to stop it from doing this if you're going to add stuff to modlists but if you don't, you have to prepend your mod name with [NoDelete] - this will make Wabbajack ignore these files. You will need to reinstall these mods and re-sort their load order after an update though, so I hope you kept backup information on where they went in the load order!
+
+All that aside, updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.
+
+***
+
+# Uninstall
+Nothing needed. Just delete the Fallen Society and everything is gone. You installation isn't touched at all.
