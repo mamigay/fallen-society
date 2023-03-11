@@ -43,6 +43,7 @@
     - [Step Ten](#step-ten)
     - [Last Step](#last-step)
 - [Ultrawide Support](#ultrawide-support)
+- [AMD Users](#amd-users)
 - [Important Links](#important-links)
   - [Wiki](#wiki)
   - [FAQs](#faqs)
@@ -296,6 +297,12 @@ I swear :P You are technically good to go. Only two mods will interfere with you
 I don't own a ultrawidescreen. So there is not really a support here, but you can enable the plugin in the image below and put the esp to priority 78 (MO2 plugins plane) and see how it goes. Feel free to give feedback or tipps if you already have a tested setup for this.
 
 ![Ultrawide](img/ultrawide.png)
+
+***
+# AMD Users
+This list is tested and developed on an NVidia system. So let me know if something doesn't work as intended.
+
+There is an NVidia specific category in the MO2 left pane. You can disable the NVidia tools, but my guess is, that they just won't have any effect on your system. That said, there might be a signicant performance drop, because of the absence of NVidia Reflex. Please let me know how it plays on AMD systems.
 
 ***
 
