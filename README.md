@@ -198,8 +198,7 @@ Fallen Society utilises the stock game feature offered by Wabbajack, meaning tha
 ## Create Desktop Shortcut
 Open MO2 and click on shortcut in the top right corner -> click desktop.
 
-![Dekstop](img/desktopIcon.png)
-
+![Dekstop](img/DesktopIcon.png)
 
 ***
 
