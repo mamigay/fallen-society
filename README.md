@@ -51,6 +51,7 @@
   - [What is insde](#what-is-inside)
   - [Commonly Failing Downloads](#commonly-failing-downloads)
   - [Issues](#issues)
+  - [Troubleshooting](#troubleshooting)
 - [Thanks](#thanks)
 - [Updating The Modlist](#updating-the-modlist)
 - [Uninstall](#uninstall)
@@ -331,6 +332,9 @@ Check this out: [Failing Downloads](https://github.com/Nymano641/fallen-society/
 
 ## Issues
 Check the issues tab of this repo for some bugs and ongoing investigations etc. [Click here](https://github.com/Nymano641/fallen-society/issues)
+
+## Troubleshooting
+For the most common problems and their fixes, check the [Troubleshooting](https://github.com/Nymano641/fallen-society/wiki/Troubleshooting)
 
 ***
 
