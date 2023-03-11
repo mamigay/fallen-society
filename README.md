@@ -6,6 +6,8 @@
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/cprgvBUCpH)
 
+***
+
 # ToC
 - [Fallen Society](#fallen-society)
 - [Before you start](#before-you-start)
@@ -44,8 +46,12 @@
   - [FAQs](#faqs)
   - [What is insde](#what-is-inside)
 
+***
+
 # Fallen Society
 Society has fallen. Every structure of order has been burned in the nuclear fire. It is up to you to rebuild society in the Commonwealth and keep your dignity as well as your sanity in tact. Are you up for the task?
+
+***
 
 # Before you start
 Please read carefully and check every requirement here:
@@ -71,6 +77,8 @@ You need the following accounts to download this list:
 ## DLC & Creation Club Content
 You need all Fallout 4 DLC except for the official HD texture pack. **DON'T INSTALL IT!**
 Creation Club content is and will not be supported.
+
+***
 
 # Installation
 At this point you should have read everything that came before und didn't skip anything. The next section requires a lot of attention so read carefully.
@@ -149,6 +157,8 @@ Before you hit **GO**, a quick tip:
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
+***
+
 # Post Installation
 If you made it this far, chances are good you will make it to the end.
 
@@ -161,6 +171,8 @@ Once everything is downloaded and you closed Wabbajack, head to the installation
 Fallen Society utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Fallout 4 game files during the installation process. This means that your Steam installation of Fallout 4 is completely untouched, even by files that go in the game folder such as ENB files.
 
 ## Create Desktop Shortcut
+
+***
 
 # Starting Your Game
 If everything is done, you can begin your journey into the wasteland. Read carefully!
@@ -259,6 +271,8 @@ I swear :P You are technically good to go. Only two mods will interfere with you
 **Beantown Interiors:** Two pop-ups about the holotapes. Just click okay.
 
 **Mk. 18:** another gun mod where the menu can't be disabled. When it pops up, just click on "normal: skip quest..." and after that set everything to no, like "do not add to leveled lists", "no legendary spawn" etc. Remember, the weapon is already in the game ;)
+
+***
 
 # Important Links
 
