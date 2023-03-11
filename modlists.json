@@ -20,7 +20,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/Nymano641/fallen-society/blob/main/img/FS_Header.webp",
+      "image": "https://raw.githubusercontent.com/Nymano641/fallen-society/main/img/FallenSociety_logo_small.webp",
       "readme": "https://github.com/Nymano641/fallen-society/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/FallenSociety.wabbajack_9ef4e64b-27e8-4b5c-8d23-bc97af50cf9e",
       "machineURL": "FallenSociety",
