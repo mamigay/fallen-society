@@ -1,6 +1,6 @@
 ![FS Header](img/FS_Header.png)
 
-**IMPORTANT:** This is a Fallout 4 modlist that contains adult content. To access this content you need to be 18 years of age (in most countries), 21 in other. Please make sure that you fullfill the legal specifications of your country.
+**IMPORTANT:** This is a Fallout 4 modlist that contains adult content. To access this content you need to be 18 years of age (in most countries), 21 in others. Please make sure that you fullfill the legal specifications of your country.
 
 **For general support and talk about the modlist, join the Fallen Society Discord:**
 
