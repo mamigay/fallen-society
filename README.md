@@ -40,6 +40,9 @@
     - [Step Ten](#step-ten)
     - [Last Step](#last-step)
 - [Important Links](#important-links)
+  - [Wiki](#wiki)
+  - [FAQs](#faqs)
+  - [What is insde](#what-is-inside)
 
 # Fallen Society
 Society has fallen. Every structure of order has been burned in the nuclear fire. It is up to you to rebuild society in the Commonwealth and keep your dignity as well as your sanity in tact. Are you up for the task?
@@ -261,3 +264,9 @@ I swear :P You are technically good to go. Only two mods will interfere with you
 
 ## Wiki
 For FAQs and most infos, just check the [Wiki](https://github.com/Nymano641/fallen-society/wiki).
+
+## FAQs
+Please read these first before you ask questions on the discord. [FAQs](https://github.com/Nymano641/fallen-society/wiki/FAQ)
+
+## What is inside
+If you want to know more about the list and it's contents, check here: [Important Mods](https://github.com/Nymano641/fallen-society/wiki/Important-Mods)
