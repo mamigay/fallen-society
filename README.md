@@ -196,6 +196,10 @@ Once everything is downloaded and you closed Wabbajack, head to the installation
 Fallen Society utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Fallout 4 game files during the installation process. This means that your Steam installation of Fallout 4 is completely untouched, even by files that go in the game folder such as ENB files.
 
 ## Create Desktop Shortcut
+Open MO2 and click on shortcut in the top right corner -> click desktop.
+
+![Dekstop](img/desktopIcon.png)
+
 
 ***
 
