@@ -41,6 +41,7 @@
     - [Step Nine](#step-nine)
     - [Step Ten](#step-ten)
     - [Last Step](#last-step)
+- [Ultrawide Support](#ultrawide-support)
 - [Important Links](#important-links)
   - [Wiki](#wiki)
   - [FAQs](#faqs)
@@ -273,6 +274,13 @@ I swear :P You are technically good to go. Only two mods will interfere with you
 **Beantown Interiors:** Two pop-ups about the holotapes. Just click okay.
 
 **Mk. 18:** another gun mod where the menu can't be disabled. When it pops up, just click on "normal: skip quest..." and after that set everything to no, like "do not add to leveled lists", "no legendary spawn" etc. Remember, the weapon is already in the game ;)
+
+***
+
+# Ultrawide Support
+I don't own a ultrawidescreen. So there is not really a support here, but you can enable the plugin in the image below and put the esp to priority 78 (MO2 plugins plane) and see how it goes. Feel free to give feedback or tipps if you already have a tested setup for this.
+
+![Ultrawide](img/ultrawide.png)
 
 ***
 
