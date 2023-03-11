@@ -259,4 +259,4 @@ I swear :P You are technically good to go. Only two mods will interfere with you
 # Important Links
 
 ## Wiki
-For FAQs and most infos, just check the wiki: [Here](home)
+For FAQs and most infos, just check the wiki: [Here](wiki)
