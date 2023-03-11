@@ -18,6 +18,7 @@
     - [Microsoft Visual C++ Redistributable Packages](#microsoft-visual-c-redistributable-packages)
     - [Page file setup](#page-file-setup)
     - [Setup your Shader Cache](#setup-your-shader-cache)
+    - [Setup your VSYNC](#setup-your-vsync)
     - [Disable Steam Overlay](#disable-steam-overlay)
     - [Set game language to English](#set-game-language-to-english)
     - [Change Steam's Updating Behavior](#change-steams-updating-behavior)
@@ -123,6 +124,19 @@ Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Bei
 5. Done
 
 ![Shader Cache](img/ShaderCache.png)
+
+
+### Setup your VSYNC
+For the enb and highFPS fix to work properly, you need to setup your VSYNC in your GPU driver settings as follows:
+
+*These instructions are Nvidia specific as it is the hardware I have.*
+
+1. Open the NVidia Control Panel
+2. Head to `Manage 3D Settings`
+3. Scroll down in `Vertical sync` to find the `Use 3D application setting` option and activate it
+4. Done
+
+![VSYNC](img/vsync.png)
 
 ### Disable Steam Overlay
 The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
