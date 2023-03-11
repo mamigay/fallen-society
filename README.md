@@ -255,3 +255,8 @@ I swear :P You are technically good to go. Only two mods will interfere with you
 **Beantown Interiors:** Two pop-ups about the holotapes. Just click okay.
 
 **Mk. 18:** another gun mod where the menu can't be disabled. When it pops up, just click on "normal: skip quest..." and after that set everything to no, like "do not add to leveled lists", "no legendary spawn" etc. Remember, the weapon is already in the game ;)
+
+# Important Links
+
+## Wiki
+For FAQs and most infos, just check the wiki: [Here](home)
