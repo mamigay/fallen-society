@@ -45,6 +45,8 @@
   - [Wiki](#wiki)
   - [FAQs](#faqs)
   - [What is insde](#what-is-inside)
+  - [Commonly Failing Downloads](#commonly-failing-downloads)
+- [Thanks](#thanks)
 
 ***
 
@@ -284,3 +286,17 @@ Please read these first before you ask questions on the discord. [FAQs](https://
 
 ## What is inside
 If you want to know more about the list and it's contents, check here: [Important Mods](https://github.com/Nymano641/fallen-society/wiki/Important-Mods)
+
+## Commonly Failing Downloads
+Check this out: [Failing Downloads](https://github.com/Nymano641/fallen-society/wiki/Commonly-Failing-Downloads)
+
+***
+
+# Thanks
+I would like to thanks some people for their work and inspiration.
+
+First of all a special thanks to the fantastic ForgottenGlory who brought me back to modding Bethesda games (without his knowledge of course :D)
+
+Special thanks as well to iAmMe27 for his fantastic modlist Wasteland of Depravity. Check it out ;) Also I stole a lot of text from his readme for this modlist :D sorry mate^^ Check him out [here](https://github.com/iAmMe27/WoD)
+
+Thanks to the Wabbajack Team and the fantastic team of the JollyCoOperators Discord ;)
