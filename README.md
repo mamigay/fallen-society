@@ -48,6 +48,7 @@
   - [FAQs](#faqs)
   - [What is insde](#what-is-inside)
   - [Commonly Failing Downloads](#commonly-failing-downloads)
+  - [Issues](#issues)
 - [Thanks](#thanks)
 
 ***
@@ -311,6 +312,9 @@ If you want to know more about the list and it's contents, check here: [Importan
 
 ## Commonly Failing Downloads
 Check this out: [Failing Downloads](https://github.com/Nymano641/fallen-society/wiki/Commonly-Failing-Downloads)
+
+## Issues
+Check the issues tab of this repo for some bugs and ongoing investigations etc. [Click here](https://github.com/Nymano641/fallen-society/issues)
 
 ***
 
