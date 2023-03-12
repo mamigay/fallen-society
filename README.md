@@ -7,6 +7,10 @@
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/cprgvBUCpH)
 
 ***
+# Disclaimer
+This modlist is in early development and is subject to significant changes in the future. Be aware and follow the development process on discord and github.
+
+***
 
 # ToC
 - [Fallen Society](#fallen-society)
