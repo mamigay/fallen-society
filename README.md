@@ -8,7 +8,7 @@
 
 ***
 # Disclaimer
-This modlist is in early development and is subject to significant changes in the future. Be aware and follow the development process on discord and github.
+This modlist is in early development and may be subject to significant changes in the future. Be aware and follow the development process on discord and github.
 
 ***
 
