@@ -307,6 +307,8 @@ I don't own a ultrawidescreen. So there is not really a support here, but you ca
 
 ![Ultrawide](img/ultrawide.png)
 
+EDIT: The plugin needs to ge **BEFORE** the User Interface mods.
+
 ***
 # AMD Users
 This list is tested and developed on an NVidia system. So let me know if something doesn't work as intended.
