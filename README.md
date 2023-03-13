@@ -188,7 +188,7 @@ Once you have everything set in Wabbajack, hit **GO** and let it do its thing. I
 ***
 
 # Commonly Failing Downloads
-Check this out: [Failing Downloads](https://github.com/Nymano641/fallen-society/wiki/Commonly-Failing-Downloads)
+If, for some reason, a download just won't work, check this out: [Failing Downloads](https://github.com/Nymano641/fallen-society/wiki/Commonly-Failing-Downloads)
 
 # Post Installation
 If you made it this far, chances are good you will make it to the end.
