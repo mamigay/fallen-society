@@ -22,19 +22,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Nymano641/fallen-society/main/img/FallenSociety_logo_small.webp",
       "readme": "https://github.com/Nymano641/fallen-society/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/FallenSociety.wabbajack_df80fa1d-57ab-47df-9aa6-207943c95ef2",
+      "download": "https://authored-files.wabbajack.org/FallenSociety.wabbajack_ebeeea91-5d54-442a-abf4-60dae4b9c611",
       "machineURL": "FallenSociety",
       "discordURL": "https://discord.gg/cprgvBUCpH"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "VrckB5x+EqQ=",
-      "Size": 11585026,
-      "NumberOfArchives": 655,
-      "SizeOfArchives": 116263438782,
-      "NumberOfInstalledFiles": 54639,
-      "SizeOfInstalledFiles": 163781639469
+      "Hash": "ELW3vhFCML0=",
+      "Size": 11599834,
+      "NumberOfArchives": 658,
+      "SizeOfArchives": 117074733804,
+      "NumberOfInstalledFiles": 54707,
+      "SizeOfInstalledFiles": 164649455372
     },
-    "version": "0.2.1"
+    "version": "0.2.2"
   }
 ]
