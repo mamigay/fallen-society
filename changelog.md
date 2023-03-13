@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 0.2.3 Hotfix
+- Changed a broken weapon again. Tested most of them now, seems fine.
+- **ATTENTION** Sadly, you will need a new savegame yet again.
+
 ## Version 0.2.2 Hotfix
 - Fixed broken pipegun replacement.
 - **ATTENTION** Again, new save because of sorting patch missing masters. Hopefully the last time for now.
