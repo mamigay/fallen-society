@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 0.2.2 Hotfix
+- Fixed broken pipegun replacement.
+- **ATTENTION** Again, new save because of sorting patch missing masters. Hopefully the last time for now.
+
 ## Version 0.2.1 Hotfix
 - fixed Mk. 12 soundloop bug by replacing the weapon.
 - **ATTENTION** You will need a new savegame for this to work.
