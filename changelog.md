@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 0.2.1 Hotfix
+- fixed Mk. 12 soundloop bug by replacing the weapon.
+
 ## Version 0.2
 - added DD workbench to make DD gameplay a little bit easier.
 - added Photomode + Screen Archer.
