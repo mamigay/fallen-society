@@ -3,8 +3,8 @@
 ## Version 0.2
 - added DD workbench to make DD gameplay a little bit easier.
 - added Photomode + Screen Archer.
-- Replaced some weapon mods to eliminate the annoying ll injections scripts.
-- added BodyGen (be aware that this relatively random for now and will be expanded in future releases).
+- Replaced some weapon mods to eliminate the annoying ll injection scripts.
+- added BodyGen (be aware that this is relatively random for now and will be expanded in future releases).
 - added new vautl girl perk.
 - fixed ultrawidescreen support plugins won't download automatically.
 - **ATTENTION** You will need a new savegame for this to work.
