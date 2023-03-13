@@ -307,11 +307,9 @@ I swear :P You are technically good to go. Only two mods will interfere with you
 ***
 
 # Ultrawide Support
-I don't own a ultrawidescreen. So there is not really a support here, but you can enable the plugin in the image below and put the esp to priority 78 (MO2 plugins plane) and see how it goes. Feel free to give feedback or tipps if you already have a tested setup for this.
+I don't own a ultrawidescreen. So there is not really a support here, but you can enable the plugin in the image below and put the esp to priority 201 (MO2 plugins plane) and see how it goes. Feel free to give feedback or tipps if you already have a tested setup for this.
 
 ![Ultrawide](img/ultrawide.png)
-
-EDIT: The plugin needs to ge **BEFORE** the User Interface mods.
 
 ***
 # AMD Users
