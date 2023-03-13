@@ -44,7 +44,6 @@ This modlist is in early development and may be subject to significant changes i
     - [Step Seven](#step-seven)
     - [Step Eight](#step-eight)
     - [Step Nine](#step-nine)
-    - [Step Ten](#step-ten)
     - [Last Step](#last-step)
 - [Ultrawide Support](#ultrawide-support)
 - [AMD Users](#amd-users)
@@ -222,43 +221,29 @@ Just choose one.
 Check every menu **before** hitting that finish button!
 
 ## Step Three
-The modlist uses a weapon replacer that injects weapons from other mods into the game and replaces the vanilla ones. Unfortunately, most of the original mods have options to inject them into the game. This is not needed after they are replaced, but it is not possible to deactivate every mods menu. So, this is up to us now for **two** weapon mods.
-
-The first one is the cazador missle launcher and will appear before you create your character.
-
-![Cazador](img/setup5.png)
-**Choose: Do not add to leveled lists.** After that, click ok.
-
-![Cazador](img/setup6.png)
-**Choose: Yes, add it to vendors and loot lists.** I am not actually sure if that is needed, but for now, just do it. After that, click ok.
-
-![Cazador](img/setup7.png)
-**Choose: I will!**
-
-## Step Four
 After that is done, just create your character. **NOTE:** This modlist configured for female characters. Male characters are not supported for now. If you choose to play as a male, you are on your own.
 
-## Step Five
+## Step Four
 After you create your character and hit that "done" button, **DO NOTHING!!!** Just wait until the AAF pop-ups appear. Just click okay and then wait until the messages in the top left corner stop appearing.
 
-## Step Six
+## Step Five
 After the mod messages have dissappeared and only then you may proceed to through the bathroom door. Here you can choose what to do. 
 
 **WARNING:** I have never tested the vanilla start with this list and I never will, but im pretty sure it will break the game. So please choose the "It's only a dream..." option and start in the wasteland. Also better for roleplaying.
 
-## Step Seven
+## Step Six
 After you wake up in the wasteland you will be greeted with the next pop-up. Yeah :D
 
 ![Gas Masks](img/setup8.png)
 Choose the preset of your liking, but be aware that it is possible to die from a radiation storm. If you want to be safe, open the console and type tgm to be invincible for the short period until the weather loads. Just click for the next gas mask pop-ups.
 
-## Step Eight
+## Step Seven
 Now wait again. Some messages will pop-up on the top left and the weather might change drastically after a few seconds. All part of the plan.
 
 ![Backpacks](img/setup9.png)
 When this turns up, just take it and choose the spawnrate to your liking.
 
-## Step Nine
+## Step Eight
 Now you are good to open the Mod Configuration Menu. Hit esc and open **Mod Configuration**
 
 ![MCM Settings](img/setup10.png)
@@ -268,7 +253,7 @@ Wait for a bit until the menu is fully loaded. There is some flickering going on
 
 If everything worked out, you should see these messages in the top left.
 
-## Step Ten
+## Step Nine
 Almost done, I swear ;) 
 
 Now we need to make some manual changes. Open the MCM again and head to Immersion -> Fallout 2287 - Gas Masks of the Wasteland:
@@ -300,9 +285,7 @@ Click the button and close the MCM. You can now choose some special perks. Read 
 ## Last Step
 I swear :P You are technically good to go. Only two mods will interfere with your journey now.
 
-**Beantown Interiors:** Two pop-ups about the holotapes. Just click okay.
-
-**Mk. 18:** another gun mod where the menu can't be disabled. When it pops up, just click on "normal: skip quest..." and after that set everything to no, like "do not add to leveled lists", "no legendary spawn" etc. Remember, the weapon is already in the game ;)
+**Beantown Interiors:** Two pop-ups about the holotapes (sometimes just one for some reason). Just click okay.
 
 ***
 
