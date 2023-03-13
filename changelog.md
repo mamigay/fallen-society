@@ -2,6 +2,7 @@
 
 ## Version 0.2.1 Hotfix
 - fixed Mk. 12 soundloop bug by replacing the weapon.
+- **ATTENTION** You will need a new savegame for this to work.
 
 ## Version 0.2
 - added DD workbench to make DD gameplay a little bit easier.
