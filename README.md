@@ -335,8 +335,6 @@ First of all a special thanks to the fantastic ForgottenGlory who brought me bac
 
 Special thanks as well to iAmMe27 for his fantastic modlist Wasteland of Depravity. Check it out ;) Also I stole a lot of text from his readme for this modlist :D sorry mate^^ Check him out [here](https://github.com/iAmMe27/WoD)
 
-Thanks to the Wabbajack Team and the fantastic team of the JollyCoOperators Discord ;)
-
 ***
 
 # Updating The Modlist
