@@ -30,6 +30,7 @@ This modlist is in early development and may be subject to significant changes i
     - [Install Fallout 4](#install-fallout-4)
     - [Start Fallout 4](#start-fallout-4)
   - [Wabbajack](#wabbajack)
+  - [Commonly Failing Downloads](#commonly-failing-downloads)
   - [Post Installation](#post-installation)
     - [Mod Organizer 2](#mod-organizer-2)
     - [Stock Game](#stock-game)
@@ -52,7 +53,6 @@ This modlist is in early development and may be subject to significant changes i
   - [Wiki](#wiki)
   - [FAQs](#faqs)
   - [What is insde](#what-is-inside)
-  - [Commonly Failing Downloads](#commonly-failing-downloads)
   - [Issues](#issues)
   - [Troubleshooting](#troubleshooting)
 - [Thanks](#thanks)
@@ -187,6 +187,9 @@ Once you have everything set in Wabbajack, hit **GO** and let it do its thing. I
 
 ***
 
+# Commonly Failing Downloads
+Check this out: [Failing Downloads](https://github.com/Nymano641/fallen-society/wiki/Commonly-Failing-Downloads)
+
 # Post Installation
 If you made it this far, chances are good you will make it to the end.
 
@@ -316,9 +319,6 @@ Please read these first before you ask questions on the discord. [FAQs](https://
 
 ## What is inside
 If you want to know more about the list and it's contents, check here: [Important Mods](https://github.com/Nymano641/fallen-society/wiki/Important-Mods)
-
-## Commonly Failing Downloads
-Check this out: [Failing Downloads](https://github.com/Nymano641/fallen-society/wiki/Commonly-Failing-Downloads)
 
 ## Issues
 Check the issues tab of this repo for some bugs and ongoing investigations etc. [Click here](https://github.com/Nymano641/fallen-society/issues)
