@@ -315,7 +315,7 @@ I don't own a ultrawidescreen. So there is not really a support here, but you ca
 # AMD Users
 This list is tested and developed on an NVidia system. So let me know if something doesn't work as intended.
 
-There is an NVidia specific category in the MO2 left pane. You can disable the NVidia tools, but my guess is, that they just won't have any effect on your system. That said, there might be a signicant performance drop, because of the absence of NVidia Reflex. Please let me know how it plays on AMD systems.
+There is an NVidia specific category in the MO2 left pane. You can disable the NVidia tools, but my guess is, that they just won't have any effect on your system. That said, there might be a significant performance drop, because of the absence of NVidia Reflex. Please let me know how it plays on AMD systems.
 
 ***
 # Keyboard Layout
