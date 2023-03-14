@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 0.2.6 Hotfix
+- Removed the weapon replacer because of a gamebreaking savegame CTD in Diamond City.
+- Added a NACX fix for strange skin color.
+- Added a patch to militrized Minutemen.
+- Replaced a wrong PRP patch.
+- Generated new BodyTalk bodyslide files to fix Longshore outfit.
+
 ## Version 0.2.5 Hotfix
 - Removed Diamond City Ambience because of patch conflict between DCA - PRP - LAT.
 - Should be savegame compatible, but not tested.
