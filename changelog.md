@@ -16,7 +16,7 @@
 - fixed Mk. 12 soundloop bug by replacing the weapon.
 - **ATTENTION** You will need a new savegame for this to work.
 
-## Version 0.2
+# Version 0.2
 - added DD workbench to make DD gameplay a little bit easier.
 - added Photomode + Screen Archer.
 - Replaced some weapon mods to eliminate the annoying ll injection scripts.
