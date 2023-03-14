@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 0.2.5 Hotfix
+- Removed Diamond City Ambience because of patch conflict between DCA - PRP - LAT.
+- Should be savegame compatible, but not tested.
+
 ## Version 0.2.4 Hotfix
 - added Baka Scraphead for more stability and performance.
 - Should be savegame compatible. If you have issues hover, start a clean save.
