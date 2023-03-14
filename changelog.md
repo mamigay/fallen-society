@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 0.2.4 Hotfix
+- added Baka Scraphead for more stability and performance.
+- Should be savegame compatible. If you have issues hover, start a clean save.
+
 ## Version 0.2.3 Hotfix
 - Changed a broken weapon again. Tested most of them now, seems fine.
 - **ATTENTION** Sadly, you will need a new savegame yet again.
@@ -25,5 +29,5 @@
 - added XDI patch for vault girl interface. XDI is operational now.
 - rearanged ultrawidescreen support mod to correct place in mod load order.
 
-## Version 0.1
+# Version 0.1
 - Initial release
