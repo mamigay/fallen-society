@@ -46,6 +46,7 @@ This modlist is in early development and may be subject to significant changes i
     - [Step Eight](#step-eight)
     - [Step Nine](#step-nine)
     - [Last Step](#last-step)
+    - [FOV](#fov)
 - [Ultrawide Support](#ultrawide-support)
 - [AMD Users](#amd-users)
 - [Keyboard Layout](#keyboard-layout)
@@ -289,6 +290,9 @@ Click the button and close the MCM. You can now choose some special perks. Read 
 I swear :P You are technically good to go. Only two mods will interfere with your journey now.
 
 **Beantown Interiors:** Two pop-ups about the holotapes (sometimes just one for some reason). Just click okay.
+
+## FOV
+To change your FOV, open up the MCM and navigate to Gameplay Tweaks/Custom Camera. There is everything you need. Also don't forget to save your profile.
 
 ***
 
