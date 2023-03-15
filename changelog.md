@@ -1,5 +1,8 @@
 # Changelog
 
+### Version 0.2.7.1 Minor
+- ELSified a bunch of plugins to create more space in the load order.
+
 ## Version 0.2.7 Hotfix
 - reverted LooksMenu to newer version (if this does break erections, please let me know)
 - Regenerated BodyTalk Bodyslide files again. Hopefully fixes the messed up download.
