@@ -1,9 +1,13 @@
 # Changelog
 
+## Version 0.2.7 Hotfix
+- reverted LooksMenu to newer version (if this does break erections, please let me know)
+- Regenerated BodyTalk Bodyslide files again. Hopefully fixes the messed up download.
+
 ## Version 0.2.6 Hotfix
 - Removed the weapon replacer because of a gamebreaking savegame CTD in Diamond City.
 - Added a NACX fix for strange skin color.
-- Added a patch to militrized Minutemen.
+- Added a patch to militirized Minutemen.
 - Replaced a wrong PRP patch.
 - Generated new BodyTalk bodyslide files to fix Longshore outfit.
 
