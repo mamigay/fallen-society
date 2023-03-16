@@ -247,6 +247,8 @@ Now wait again. Some messages will pop-up on the top left and the weather might 
 ![Backpacks](img/setup9.png)
 When this turns up, just take it and choose the spawnrate to your liking.
 
+**NOTES ON WEAPON MODS**: Some weapon mods still try to inject themselfes into the game (the M1A for example). You should always choose normal: skip quest and then choose *not* to inject and *not* add to chem tab etc. If you forget this, not that bad, it just adds a second instance of the gun into the game. Shouldn't be problem.
+
 ## Step Eight
 Now you are good to open the Mod Configuration Menu. Hit esc and open **Mod Configuration**
 
