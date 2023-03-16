@@ -275,6 +275,8 @@ Click the button where it says: Click here to Enable Advanced Needs.
 ![Bathroom](img/setup14.png)
 Here you can also pick and choose. Click the button where it says: Click here to Enable Bathroom Needs. 
 
+**OPTIONAL** You can go to the "Hygiene Systems" tab and enable the menstrual cycle and link to FPE. This enables a link to Family Planning Enhanced.
+
 **NOTES ABOUT THE ADVANCED NEEDS 76 MOD:** You can alter some of that stuff that is going on, but stuff like dirtiness is better handled by Get Dirty. For maximum compatibility just use my settings and nothing else. You can alos decide to not use the needs and bathroom settings at all. This is just for survival aspects and immersion.
 
 Now close the MCM and wait for the Advanced Needs pop-up to appeard and click ok.
