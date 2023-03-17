@@ -1,5 +1,60 @@
 # Changelog
 
+# Version 0.3
+- added HD Lockpick interface
+- added Sim Settlements - Rise of the Commonwealth
+- added Sim Settlements - Nobody's Leader
+- added human resources
+- added AQUILA - Laser Rifle
+- added AK74M
+- added AKM complex
+- added Heckler und Koch UMP
+- added MP-412 Revolver
+- added Baretta M9-FS
+- added Accelerator Plasma Energy Weapon
+- added AX50 Rifle
+- added FN SCAR-H
+- added Fostech Origin 12
+- added Springfield Armory M14
+- added Springfield Armory M1A
+- added TEC-9
+- added HS Produkt VHS-2 Rifle
+- added Misc Hairstyles
+- added Zens Piper Replacer-Facepreset
+- added Discord Rich Presence
+- added Living Through Cummistry
+- added Problems of Survivor Voiced Files
+- added Family Planning Enhanced DLC Doctors addon
+- added Family Planning Enhanced Dog Addon
+- added Family Planning Enhanced Super Mutant Addon
+- added Family Planning Enhanced More Creatures v1.5
+- added Wasteland Offspring module to FPE installation
+- reintroduced modern weapon replacer
+- created BodyGen files
+- replaced hightech pip-boy with combat pip-boy
+- recreated LODGen files (more performance friendly TexGen as well)
+- removed Better Female walk (can cause problems with skeleton)
+- removed just business (replaced with human resources)
+- removed Knockout Framework (very conflict prone, especially with AAF Violate)
+- removed Non-Lethal armory (not needed without knockout framework)
+- removed AER15 (outdated, buggy)
+- removed MP5 Complex (outdated, buggy)
+- removed Ballpup Bozar (outdated, buggy)
+- removed AnotherOne PP-91 Kedr (sound bug, non directional sound)
+- removed Beantown Interiors (breaks precombines and some patches are not up to date)
+- removed Horror at the Prision camp (conflicts)
+- removed Zombie Walkers because of AAf conflict (breaks skeleton)
+- removed Rusty Face Fix (caused savegame CTD)
+- removed Rusty Face Fix Redux (redundant, already built in HiPoly Faces Redux)
+- removed Combined Arms (old patches, probable skeleton incompatibilty with the M249)
+- removed Valkyre Face Textures because of rear head seams
+- reduced the amount of commonwealth captives for better balance
+- replaced HD Smile Teeth with Distinctive Teeth
+- removed RSE Framework + Mods (not well integrated with other AAF mods)
+- removed Baka Scraphead (incompatible with AAF)
+- replaced vault suit with another version
+- removed Sarah LooksMenu preset (exploded mesh)
+
 ### Version 0.2.7.1 Minor
 - ELSified a bunch of plugins to create more space in the load order.
 
