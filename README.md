@@ -47,6 +47,7 @@ This modlist is in early development and may be subject to significant changes i
     - [Step Nine](#step-nine)
     - [Last Step](#last-step)
     - [FOV](#fov)
+- [Notes on Character Creation](#notes-on-character-creation)
 - [Ultrawide Support](#ultrawide-support)
 - [AMD Users](#amd-users)
 - [Keyboard Layout](#keyboard-layout)
@@ -297,6 +298,13 @@ I swear :P You are technically good to go. Only two mods will interfere with you
 
 ## FOV
 To change your FOV, open up the MCM and navigate to Gameplay Tweaks/Custom Camera. There is everything you need. Also don't forget to save your profile.
+
+***
+
+# Notes on Character Creation
+The AAF team issues the following statement regarding the use of LooksMenu: "(Latest version 1.6.20 breaks erections. DON'T press C during character creation/LooksMenu to remove clothes. Undress after vault, 'slm 14' in console.)" 
+
+I din't experience this so far, but if you do, please follow the instructions above, even better: wait until you first settlement and built the "Looks Mirror". That is the safest bet.
 
 ***
 
