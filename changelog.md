@@ -23,7 +23,6 @@
 - added Zens Piper Replacer-Facepreset
 - added Discord Rich Presence
 - added Living Through Cummistry
-- added Problems of Survivor Voiced Files
 - added Family Planning Enhanced DLC Doctors addon
 - added Family Planning Enhanced Dog Addon
 - added Family Planning Enhanced Super Mutant Addon
@@ -43,7 +42,7 @@
 - removed AnotherOne PP-91 Kedr (sound bug, non directional sound)
 - removed Beantown Interiors (breaks precombines and some patches are not up to date)
 - removed Horror at the Prision camp (conflicts)
-- removed Zombie Walkers because of AAf conflict (breaks skeleton)
+- removed Zombie Walkers because of AAF conflict (breaks skeleton)
 - removed Rusty Face Fix (caused savegame CTD)
 - removed Rusty Face Fix Redux (redundant, already built in HiPoly Faces Redux)
 - removed Combined Arms (old patches, probable skeleton incompatibilty with the M249)
